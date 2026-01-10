@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Pursuing MSc Computer Science<br>🌱 I’m currently learning Full Stack <br>🤖  Ai automation<br>⚡ Learning is a skill
+🔭 MSc Computer Science<br>🌱 I’m currently exploring Full Stack & AI computerised , Data"   <br>🤖  Ai automation<br>⚡ Learning is a skill
 
 
 ## 🌐 Socials:
